@@ -2,10 +2,6 @@
 # by Christian DeWolf
 
 ## playable at https://www.christiandewolf.com/thecalicobrief
-## or run your own version of the BinaryWoods IF platform: https://github.com/christiancodes/christianrails
-
-# Paste this document into your Rails console, or add to the seeds.rb file and run:
-#   bin/rails db:seed
 
 ## SPOILERS FOLLOW ##
 
