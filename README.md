@@ -1,3 +1,5 @@
 # THE CALICO BRIEF
 
-The complete story data for the interactive story The Calico Brief. It's playable at https://www.christiandewolf.com/thecalicobrief .
+The complete story data for the interactive office justice thriller. **Contains spoilers**
+
+Playable at: https://mirthturtle.com/thecalicobrief

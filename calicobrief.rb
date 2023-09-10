@@ -1,10 +1,12 @@
 # THE CALICO BRIEF
 # ----------------
-# Calico watched SootCo almost crumble around her when
-# her coworkers took advantage of a crisis.
+# Calico watched SootCo almost crumble when her coworkers took advantage of a crisis.
 # Now, she's out for payback.
 
 # Office justice at: https://mirthturtle.com/thecalicobrief
+
+# This data is in BinaryWoods format, a Ruby on Rails interactive fiction engine.
+# https://mirthturtle.com/binarywoods
 
 
 ## SPOILERS FOLLOW ##
